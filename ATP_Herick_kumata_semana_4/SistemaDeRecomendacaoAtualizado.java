@@ -57,7 +57,7 @@ class GrafoDeLivros {
     }
 }
 
-public class SistemaDeRecomendacao {
+public class SistemaDeRecomendacaoAtualizado {
     public static void main(String[] args) {
         // Criando livros para os grafos
         Livro livro1 = new Livro("Harry Potter: Ordem da Phoenix", 2003, "J.K. Rowling");
