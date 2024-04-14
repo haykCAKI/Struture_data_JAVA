@@ -101,7 +101,7 @@ public class SistemaDeRecomendacao {
         }
 
         // Adicionando uma lista de livros
-        List<Livro> listaDeLivros = new ArrayList<>();
+        List<Livro> listaDeLivros = new LinkedList<>();
         listaDeLivros.add(livro4);
         listaDeLivros.add(livro5);
         listaDeLivros.add(livro6);
